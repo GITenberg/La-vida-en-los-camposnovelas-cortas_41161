@@ -1,0 +1,37 @@
+_repo: La-vida-en-los-camposnovelas-cortas_41161
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Cherif, C. Rivas
+    gutenberg_agent_id: '41013'
+    url: http://www.gutenberg.org/2009/agents/41013
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Verga, Giovanni
+    birthdate: 1840
+    deathdate: 1922
+    gutenberg_agent_id: '39173'
+    url: http://www.gutenberg.org/2009/agents/39173
+    wikipedia: http://en.wikipedia.org/wiki/Giovanni_Verga
+description: ''
+gutenberg_issued: '2012-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41161'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, Italian -- Translations into Spanish'
+- !lcc 'PQ'
+tableOfContents: Los rústicos caballeros ("Cavalleria rusticana") -- "La loba" --
+  Nedda -- Capricho (Fantastichería) -- Jeli el pastor -- "Malpelo" (Rosso Malpelo)
+  -- La querida del "Abrojo" (L' amante di Gramigna) -- Guerra de Santos -- "Pucherete"
+  (Pentolaccia).
+title: 'La vida en los campos: novelas cortas'
+url: http://www.gutenberg.org/ebooks/41161
